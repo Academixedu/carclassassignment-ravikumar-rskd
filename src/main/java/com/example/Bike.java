@@ -77,7 +77,7 @@ public class Bike {
         System.out.println("Model: "+model);
         System.out.println("Year of Mfg: "+year);
         System.out.println("Color: "+color);
-        System.out.println("Price: "+price);
+        System.out.println("Price:Rs."+price);
     }
 
     

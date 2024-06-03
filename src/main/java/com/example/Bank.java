@@ -63,7 +63,7 @@ public class Bank {
         System.out.println("BankName: "+bankName);
         System.out.println("Account Holder:"+accountHolderName); // TODO: Implement this method
         System.out.println("A/c No: "+accountNumber);
-        System.out.println("Avl.Balance: "+balance);
+        System.out.println("Avl.Balance:Rs."+balance);
     }
 
     
